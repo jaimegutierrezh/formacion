@@ -1,4 +1,4 @@
-# Material docente para en curso "Contar historias con precisión: introducción al periodismo de datos"
+# Material docente para el curso "Contar historias con precisión: introducción al periodismo de datos"
 
 * **Web del curso** (https://coordinadoraongd.org/formacion/cursos/contar-historias-con-precision-introduccion-al-periodismo-de-datos/)
 
