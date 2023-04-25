@@ -2,7 +2,7 @@
 
 * **Web del curso** (https://coordinadoraongd.org/formacion/cursos/contar-historias-con-precision-introduccion-al-periodismo-de-datos/)
 
-* **Diapositivas** ()
+* **Diapositivas** (https://jaimegutierrezh.github.io/formacion/clases/decalogo_datos/index.html#/title-slide)
    
 * **Ejercicio Turquía** (https://jaimegutierrezh.github.io/formacion/ejercicios/2023_terremotos_turquia/index.html)
                         
