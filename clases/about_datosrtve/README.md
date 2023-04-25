@@ -1,4 +1,4 @@
-# Material docente para la charla sobre periodismo de datos "Aprende periodismo de datos con RTVE"
+# Material de presentación del equipo de DatosRTVE
 
 * **Diapositivas** (https://jaimegutierrezh.github.io/formacion/clases/ucm_ojoaldato/index.html#/title-slide)
    
