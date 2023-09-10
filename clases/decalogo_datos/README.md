@@ -1,8 +1,8 @@
-# Material docente para el curso "Contar historias con precisión: introducción al periodismo de datos"
+# Material docente para en curso "Contar historias con precisión: introducción al periodismo de datos"
 
-* **Web del curso** (https://coordinadoraongd.org/formacion/cursos/contar-historias-con-precision-introduccion-al-periodismo-de-datos/)
+* **Web del curso** (https://coordinadoraongd.org/formacion/cursos/relatos-detras-de-los-datos-herramientas-practicas-para-convertir-numero-en-historias/)
 
-* **Diapositivas** (https://jaimegutierrezh.github.io/formacion/clases/decalogo_datos/index.html#/title-slide)
+* **Diapositivas** ()
    
 * **Ejercicio Turquía** (https://jaimegutierrezh.github.io/formacion/ejercicios/2023_terremotos_turquia/index.html)
                         
