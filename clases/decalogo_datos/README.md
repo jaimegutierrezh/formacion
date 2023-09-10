@@ -1,4 +1,4 @@
-# Material docente para en curso "Contar historias con precisión: introducción al periodismo de datos"
+# Material docente para en curso "Relatos detrás de los datos. Herramientas prácticas para convertir números en historias"
 
 * **Web del curso** (https://coordinadoraongd.org/formacion/cursos/relatos-detras-de-los-datos-herramientas-practicas-para-convertir-numero-en-historias/)
 
